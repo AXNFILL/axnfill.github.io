@@ -18472,8 +18472,8 @@ cr.behaviors.solid = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Mouse,
 	cr.plugins_.Keyboard,
+	cr.plugins_.Mouse,
 	cr.plugins_.Sprite,
 	cr.behaviors.solid,
 	cr.behaviors.Platform,
@@ -18481,11 +18481,17 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.scrollto,
 	cr.behaviors.Bullet,
 	cr.behaviors.destroy,
+	cr.plugins_.Sprite.prototype.cnds.OnCollision,
+	cr.plugins_.Sprite.prototype.acts.SetVisible,
+	cr.system_object.prototype.acts.Wait,
+	cr.plugins_.Sprite.prototype.acts.SetAnim,
+	cr.behaviors.Platform.prototype.acts.SetEnabled,
+	cr.system_object.prototype.acts.SetGroupActive,
+	cr.system_object.prototype.acts.RestartLayout,
 	cr.system_object.prototype.cnds.IsGroupActive,
 	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 	cr.plugins_.Sprite.prototype.acts.SetMirrored,
 	cr.behaviors.Platform.prototype.acts.SimulateControl,
-	cr.plugins_.Sprite.prototype.acts.SetAnim,
 	cr.plugins_.Keyboard.prototype.cnds.OnAnyKeyReleased,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
 	cr.plugins_.Mouse.prototype.cnds.OnClick,
@@ -18499,6 +18505,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.Spawn,
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
 	cr.plugins_.Sprite.prototype.acts.SetTowardPosition,
-	cr.plugins_.Sprite.prototype.cnds.OnCollision,
+	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.behaviors.Bullet.prototype.acts.Bounce
 ];};
