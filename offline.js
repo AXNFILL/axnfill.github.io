@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530398883,
+	"version": 1530564306,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,10 @@
 		"images/dojd-sheet0.png",
 		"images/effecdojd-sheet0.png",
 		"images/zvuk-sheet0.png",
+		"images/t3-sheet0.png",
+		"images/t4-sheet0.png",
+		"images/derevo-sheet0.png",
+		"images/forest-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"media/teleport.m4a",

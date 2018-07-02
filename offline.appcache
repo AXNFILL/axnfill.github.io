@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1530398883
+#1530564306
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -33,6 +33,10 @@ images/luzha-sheet0.png
 images/dojd-sheet0.png
 images/effecdojd-sheet0.png
 images/zvuk-sheet0.png
+images/t3-sheet0.png
+images/t4-sheet0.png
+images/derevo-sheet0.png
+images/forest-sheet0.png
 images/sprite3-sheet0.png
 images/sprite4-sheet0.png
 media/teleport.m4a
