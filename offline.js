@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530564306,
+	"version": 1530825249,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,8 +38,12 @@
 		"images/t4-sheet0.png",
 		"images/derevo-sheet0.png",
 		"images/forest-sheet0.png",
+		"images/information-sheet0.png",
+		"images/rasp_auto-sheet0.png",
+		"images/lep-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
 		"media/teleport.m4a",
 		"media/teleport.ogg",
 		"media/step.m4a",
@@ -54,6 +58,8 @@
 		"media/zver.m4a",
 		"media/zver.ogg",
 		"media/darkamb.ogg",
+		"media/trava.m4a",
+		"media/trava.ogg",
 		"media/zona.ogg",
 		"icon-16.png",
 		"icon-32.png",
