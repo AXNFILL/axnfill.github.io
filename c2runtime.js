@@ -22575,6 +22575,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.CreateObject,
 	cr.behaviors.Platform.prototype.acts.SetMaxSpeed,
 	cr.system_object.prototype.acts.SetLayoutScale,
+	cr.plugins_.Sprite.prototype.acts.SetOpacity,
 	cr.plugins_.Audio.prototype.acts.Preload,
 	cr.system_object.prototype.cnds.OnLoadFinished,
 	cr.system_object.prototype.acts.GoToLayout

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530825641,
+	"version": 1530908651,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,6 +44,7 @@
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
 		"media/teleport.m4a",
 		"media/teleport.ogg",
 		"media/step.m4a",
