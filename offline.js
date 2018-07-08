@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530908651,
+	"version": 1531089074,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,12 @@
 		"images/information-sheet0.png",
 		"images/rasp_auto-sheet0.png",
 		"images/lep-sheet0.png",
+		"images/kolodec-sheet0.png",
+		"images/cevich56-sheet0.png",
+		"images/elka-sheet0.png",
+		"images/zaborchik-sheet0.png",
+		"images/skameyka-sheet0.png",
+		"images/podval_vyhod-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
@@ -61,6 +67,8 @@
 		"media/darkamb.ogg",
 		"media/trava.m4a",
 		"media/trava.ogg",
+		"media/kukla_mama.m4a",
+		"media/kukla_mama.ogg",
 		"media/zona.ogg",
 		"icon-16.png",
 		"icon-32.png",
