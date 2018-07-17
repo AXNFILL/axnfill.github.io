@@ -22647,7 +22647,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetTowardPosition,
 	cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar,
 	cr.system_object.prototype.acts.SetLayoutEffectParam,
-	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Sprite.prototype.acts.SetX,
 	cr.plugins_.Sprite.prototype.acts.SetAngle,
 	cr.plugins_.Audio.prototype.acts.StopAll,
@@ -22659,7 +22658,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.acts.SetMaxSpeed,
 	cr.plugins_.Sprite.prototype.cnds.CompareFrame,
 	cr.plugins_.Audio.prototype.acts.Preload,
-	cr.system_object.prototype.cnds.OnLoadFinished,
+	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Audio.prototype.acts.AddFlangerEffect,
 	cr.plugins_.Audio.prototype.acts.RemoveEffects
 ];};
