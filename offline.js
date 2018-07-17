@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1531768555,
+	"version": 1531807942,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -57,6 +57,10 @@
 		"images/sprite9-sheet0.png",
 		"images/sprite9-sheet1.png",
 		"images/sprite9-sheet2.png",
+		"images/sprite10-sheet0.png",
+		"images/sprite10-sheet1.png",
+		"images/sprite10-sheet2.png",
+		"images/sprite11-sheet0.png",
 		"media/teleport.m4a",
 		"media/teleport.ogg",
 		"media/step.m4a",
@@ -75,6 +79,10 @@
 		"media/trava.ogg",
 		"media/kukla_mama.m4a",
 		"media/kukla_mama.ogg",
+		"media/play.m4a",
+		"media/play.ogg",
+		"media/start.m4a",
+		"media/start.ogg",
 		"media/zona.ogg",
 		"icon-16.png",
 		"icon-32.png",
