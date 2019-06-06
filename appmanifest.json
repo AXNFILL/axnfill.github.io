@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Посещение Три",
-	"short_name": "Посещение Три",
+	"name": "New project",
+	"short_name": "New project",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
